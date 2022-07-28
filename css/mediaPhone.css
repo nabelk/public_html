@@ -67,7 +67,7 @@ input,textarea{ outline:none; }
 /* 尾部 */
 .footer-wrap { width:100%; background:#004d20; padding:20px 0; clear:both; }
 .footer-container { width:94%; padding:0 2%; }
-.footer-box{ display:none; }
+.footer-box{ display:block; }
 .ft-Mar{ display:block; }
 .ft-Mar { margin:0; }
 .ft-cIco1 { font-style:normal; color:#fff; font-size:1.3rem; background:url(../images/ft-ico.gif) no-repeat; height:20px; display:block; padding:0 0 0 22px; }
