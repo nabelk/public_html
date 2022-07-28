@@ -65,6 +65,8 @@ input,textarea{ outline:none; }
 .play-btn a { height:30px; background:url(../images/play-btn.png) no-repeat; display:block; }
 
 /* 尾部 */
+.gallery-cent {display:flex;}
+.gallery-area {width:100px; height: auto;}
 .footer-wrap { width:100%; background:#004d20; padding:20px 0; clear:both; }
 .footer-container { width:94%; padding:0 2%; }
 .footer-box{ display:block; }
@@ -77,7 +79,7 @@ input,textarea{ outline:none; }
 .footer-mess ul li.ft-emial { background:url(../images/ft-ico.gif) no-repeat 0 -20px; padding:0 0 0 25px; }
 .footer-mess ul li.ft-tel { background:url(../images/ft-ico.gif) no-repeat 0 -40px; padding:0 0 0 25px; }
 .footer-mess ul li.ft-b { background:url(../images/ft-ico.gif) no-repeat 0 -60px; padding:0 0 0 25px; }
-.footer-text { height:20px; line-height:20px; margin:0 0 15px 0; font-weight:bold; color:#fff; }
+.footer-text { height:20px; line-height:20px; margin:15px 0 15px 0; font-weight:bold; color:#fff; }
 .footer-cent span { width:100%; display:block; font-weight:bold; color:#fff; }
 
 .how-map{ width:96%; padding:0 2%; }
